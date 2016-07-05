@@ -14,6 +14,10 @@ Contents:
    :maxdepth: 3
 
    gettingstarted
+   documentation
+   monitoring
+   ticketing
+   settings
 
 Indices and tables
 ==================
