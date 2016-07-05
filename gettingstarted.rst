@@ -5,9 +5,9 @@ Getting started
 Requirements
 ========
 
+The unitworx Client needs Windows 8 or newer.
 
-
-Getting started
+Installation
 ===============
 
 #. Register for the Free Trial on: http://www.unitworx.com
