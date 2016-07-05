@@ -6,6 +6,7 @@ Requirements
 ========
 
 The unitworx Client needs Windows 8 or newer.
+The unitworx Agent needs Windows 7 or newer.
 
 Installation
 ===============
