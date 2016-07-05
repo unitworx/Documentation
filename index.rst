@@ -1,41 +1,19 @@
-Welcome to Simple Injector's documentation!
+Welcome to unitworx's documentation!
 ===========================================
 
-Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps, .NET Core and Mono. Simple Injector is easily integrated with frameworks such as Web API, MVC, WCF, ASP.NET Core and many others. It’s easy to implement the dependency injection pattern with loosely coupled components using Simple Injector.
+unitworx is a fully-integrated IT Service Management Software, designed and developed to master the challenges of small and
+medium sized IT companies or departments.
 
-Use:
-
-* Get official builds from `NuGet <https://simpleinjector.org/nuget>`_ or run the following command in the Package Manager Console: `PM> Install-Package SimpleInjector`
-* `Download the binaries <https://simpleinjector.org/download>`_.
-* Browse the `source code <https://simpleinjector.org/source>`_.
-* Browse questions on `Stackoverflow <https://simpleinjector.org/stackoverflow>`_ and `Github <https://simpleinjector.org/issues>`_.
-
-Engage:
-
-* `Discuss <https://simpleinjector.org/forum>`_
-* `Contribute <https://simpleinjector.org/contribute>`_
-* `Twitter <https://simpleinjector.org/twitter>`_
+* `Website <http://www.unitworx.com>`_
+* `Facebook <https://www.facebook.com/unitworx/>`_
+* `Twitter <https://twitter.com/unitworx>`_
 
 Contents:
 
 .. toctree::
    :maxdepth: 3
 
-   quickstart
-   using
-   lifetimes
-   integration
-   diagnostics
-   howto
-   advanced
-   extensibility
-   pipeline
-   principles
-   decisions
-   legal
-   contribute
-   appendix
-   API Documentation <https://simpleinjector.org/ReferenceLibrary/>
+   gettingstarted
 
 Indices and tables
 ==================
